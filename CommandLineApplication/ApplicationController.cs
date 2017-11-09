@@ -18,7 +18,7 @@ namespace CommandLineApplication
             {
                 Environment.Exit(1);
             }
-}
+        }
 
         public void Run()
         {
