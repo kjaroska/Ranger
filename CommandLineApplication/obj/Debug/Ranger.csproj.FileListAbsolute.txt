@@ -1,0 +1,7 @@
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\bin\Debug\CommandLineApplication.exe.config
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\bin\Debug\CommandLineApplication.exe
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\bin\Debug\CommandLineApplication.pdb
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\obj\Debug\Ranger.csprojResolveAssemblyReference.cache
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\obj\Debug\Ranger.csproj.CoreCompileInputs.cache
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\obj\Debug\CommandLineApplication.exe
+F:\MakingWaves\CommandLineApplication\CommandLineApplication\obj\Debug\CommandLineApplication.pdb
